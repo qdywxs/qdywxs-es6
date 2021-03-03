@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/javascript/index.js"],"names":["console","log"],"mappings":";AAAAA,QAAQC,IAAI","file":"javascript.8943724a.js","sourceRoot":"..","sourcesContent":["console.log(\"Hello, 前端一万小时!\")\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/scss/index.scss"],"names":[],"mappings":";AAAA;AAIA;EACE,OAJM;;AAMN;EACE,OANK","file":"scss.8c25d549.css","sourceRoot":"..","sourcesContent":["/* 🏆用 Sass 的好处就是简化了很多代码！ */\n$color: #ff00ff;\n$color2: #ffaa33;\n\nbody {\n  color: $color;\n\n  p {\n    color: $color2;\n  }\n}\n\n"]}

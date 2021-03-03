@@ -1,0 +1,12 @@
+/* 🏆用 Sass 的好处就是简化了很多代码！ */
+$color: #ff00ff;
+$color2: #ffaa33;
+
+body {
+  color: $color;
+
+  p {
+    color: $color2;
+  }
+}
+

@@ -1,0 +1,1 @@
+console.log("Hello, 前端一万小时！")
